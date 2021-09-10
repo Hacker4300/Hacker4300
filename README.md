@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michał</h1>
-<h3 align="center">I'm developer from Poland</h3>
+<h3 align="center">I'm developer from Poland 🇵🇱</h3>
 
 <h1 align ="center"> ⚙  Languages:  ⚙</h1>
 <p align="center" >
